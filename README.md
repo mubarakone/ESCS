@@ -1,2 +1,2 @@
 # Ethereum Smart Contract Simulator
-Ethereum Smart Contract Simulator (ESCS)
+An interface to simulate smart contracts. This simulator will use Remix IDE as an API to deploy smart contracts and experiment with different functions and variables. This of this as a better interface for testing Remix deployed contracts.
