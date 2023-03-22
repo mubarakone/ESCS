@@ -155,23 +155,23 @@ function updateInterface(contractAddress, abi) {
 }
 ```
 ```
----------------------------------------------
-| Ethereum Smart Contract Simulator       O | <- O = Connect Wallet button
----------------------------------------------
-| Deployed Contracts        | Contract Info |
-|                           |               |
-| [+] Contract 1 (0x123...) | Name: Contract1|
+-----------------------------------------------
+| Ethereum Smart Contract Simulator       O   | <- O = Connect Wallet button
+-----------------------------------------------
+| Deployed Contracts        | Contract Info   |
+|                           |                 |
+| [+] Contract 1 (0x123...) | Name: Contract1 |
 | [+] Contract 2 (0x456...) | Address: 0x123..|
 |                           | Network: Testnet|
-|                           |               |
-|                           | Read-only funcs|
-| [Load Contract]           | func1() -> Res |
-|                           | func2(arg1)Res |
-|                           |               |
-|                           | Write functions|
-|                           | func3(arg1) Tx |
-|                           | func4(arg1) Tx |
----------------------------------------------
-| Footer: links, copyright, documentation   |
----------------------------------------------
+|                           |                 |
+|                           | Read-only funcs |
+| [Load Contract]           | func1() -> Res  |
+|                           | func2(arg1)Res  |
+|                           |                 |
+|                           | Write functions |
+|                           | func3(arg1) Tx  |
+|                           | func4(arg1) Tx  |
+-----------------------------------------------
+| Footer: links, copyright, documentation     |
+-----------------------------------------------
 ```
